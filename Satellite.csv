@@ -1,0 +1,366 @@
+Satellite Position Longitude,Satellite Position Hemisphere,Satellite Name,Region,Launch Date,Launching Rocket
+167.0,W,TDRS 8, Asia & Pacific,2000-06-30,Atlas AC-139
+171.0,W,TDRS 10, Asia & Pacific,2002-12-05,Atlas 2A - AC-144
+174.0,W,TDRS 11, Asia & Pacific,2013-01-31,Atlas 5 - V401
+177.0,W,NSS 9, Asia & Pacific,2009-02-12,Ariane 5 - V187
+177.0,W,Yamal 300K, Asia & Pacific,2012-11-02,Proton
+180.0,E,Intelsat 18, Asia & Pacific,2011-10-05,Zenit 3
+176.0,E,NSS 11, Asia & Pacific,2000-10-01,Proton
+174.0,E,Eutelsat 174A, Asia & Pacific,2005-12-29,Proton
+172.0,E,Eutelsat 172B, Asia & Pacific,2017-06-01,Ariane 5 - VA237
+169.0,E,Horizons 3e, Asia & Pacific,2018-09-25,Ariane 5 - VA243
+166.1,E,Intelsat 5, Asia & Pacific,1997-08-28,Proton
+166.0,E,Luch 5A, Asia & Pacific,2011-12-11,Proton
+166.0,E,Intelsat 19, Asia & Pacific,2012-06-01,Zenit 3
+166.0,E,Galaxy 11, Asia & Pacific,1999-12-22,Ariane V125
+163.5,E,Yamal 202, Asia & Pacific,2003-11-24,Proton
+163.0,E,ChinaSat 19, Asia & Pacific,2022-11-05,Long March 3B
+162.0,E,Superbird B3, Asia & Pacific,2018-04-05,Ariane 5 - VA242
+160.0,E,Optus D2, Asia & Pacific,2007-10-05,Ariane 5
+159.0,E,ABS 6, Asia & Pacific,1999-09-26,Proton
+157.0,E,Intelsat 1R, Asia & Pacific,2000-11-16,Ariane 5 - V135
+156.0,E,Optus C1, Asia & Pacific,2003-06-11,Ariane 5 - V161
+156.0,E,Optus D3, Asia & Pacific,2009-08-21,Ariane 5 - V190
+156.0,E,Optus 10, Asia & Pacific,2014-09-11,Ariane 5 - VA218
+155.5,E,Intelsat 10 (drifting 0.4W (day)), Asia & Pacific,2001-05-15,Ariane 4 - V141
+154.0,E,JCSAT 2B, Asia & Pacific,2016-05-06,Falcon 9
+152.0,E,Optus D1, Asia & Pacific,2006-10-13,Ariane 5
+150.5,E,BRIsat, Asia & Pacific,2016-06-18,Ariane 5 - VA230
+150.0,E,JCSAT 1C, Asia & Pacific,2019-12-17,Falcon 9
+147.5,E,AsiaSat 4, Asia & Pacific,2003-04-12,Atlas 3B - AC-205
+146.0,E,Nusantara Satu, Asia & Pacific,2019-02-22,Falcon 9
+145.0,E,Express AMU7, Asia & Pacific,2021-12-13,Proton
+144.0,E,JCSAT 16, Asia & Pacific,2016-08-14,Falcon 9
+144.0,E,Superbird C2, Asia & Pacific,2008-08-14,Ariane 5 - V185
+142.0,E,Apstar 9, Asia & Pacific,2015-10-16,Xichang
+140.0,E,Express AM5, Asia & Pacific,2013-12-26,Proton
+140.0,E,Express AT2, Asia & Pacific,2014-03-15,Proton
+138.0,E,Telstar 18 Vantage, Asia & Pacific,2018-09-10,Falcon 9
+136.0,E,JCSAT 17, Asia & Pacific,2020-02-18,Ariane 5 - VA252
+134.0,E,Apstar 6D, Asia & Pacific,2020-07-09,Long March 3B
+134.0,E,Apstar 6C, Asia & Pacific,2018-05-03,Long March 3B
+132.0,E,JCSAT 12, Asia & Pacific,2009-08-21,Ariane 5 - V190
+132.0,E,JCSAT 5A, Asia & Pacific,2006-04-12,Zenit 3
+132.0,E,Vinasat 1, Asia & Pacific,2008-04-18,Ariane 5
+131.8,E,Vinasat 2, Asia & Pacific,2012-05-15,Ariane 5 - VA206
+130.5,E,ChinaSat 6C, Asia & Pacific,2019-03-09,Long March 3B
+130.0,E,ChinaSat 1D, Asia & Pacific,2021-11-26,Long March 3B
+130.0,E,ChinaSat 2D, Asia & Pacific,2019-01-10,Long March 3B
+128.5,E,LaoSat 1, Asia & Pacific,2015-11-20,Long March 3B
+128.0,E,JCSAT 3A, Asia & Pacific,2006-08-11,Ariane 5
+128.0,E,Cosmos 2526, Asia & Pacific,2018-04-18,Proton
+125.0,E,ChinaSat 26, Asia & Pacific,2023-02-23,Long March 3B
+125.0,E,ChinaSat 6D, Asia & Pacific,2022-04-15,Long March 3B
+124.0,E,JCSAT 4B, Asia & Pacific,2012-05-15,Ariane 5 - VA206
+122.0,E,AsiaSat 9, Asia & Pacific,2017-09-28,Proton
+121.5,E,Hylas 1 (drifting west), Asia & Pacific,2010-11-26,Ariane 5 - V198
+120.0,E,AsiaSat 6 (Thaicom 7), Asia & Pacific,2014-09-07,Falcon 9
+119.5,E,Thaicom 4, Asia & Pacific,2005-08-11,Ariane
+119.1,E,Bangabandhu 1, Asia & Pacific,2018-05-11,Falcon 9
+118.0,E,Telkom 3S, Asia & Pacific,2017-02-14,Ariane 5 - VA235
+116.0,E,Koreasat 6, Asia & Pacific,2010-12-29,Ariane 5 - V199
+116.0,E,Koreasat 7, Asia & Pacific,2017-05-04,Ariane 5 - VA236
+115.5,E,ChinaSat 6B, Asia & Pacific,2007-07-05,Long March 3B
+115.5,E,ChinaSat 6E, Asia & Pacific,2023-11-09,Long March 3B
+113.0,E,Koreasat 5, Asia & Pacific,2006-08-22,Zenit 3
+113.0,E,Koreasat 5A, Asia & Pacific,2017-10-30,Falcon 9
+113.0,E,Merah Putih 2, Asia & Pacific,2024-02-20,Falcon 9
+110.5,E,ChinaSat 10, Asia & Pacific,2011-06-20,Long March 3B
+110.5,E,ChinaSat 16, Asia & Pacific,2017-04-12,Long March 3BE
+110.0,E,BSAT 4B, Asia & Pacific,2020-08-15,Ariane 5 - VA253
+110.0,E,BSAT 3A, Asia & Pacific,2007-08-14,Ariane 5 - V177
+110.0,E,BSAT 3C (JCSAT 110R), Asia & Pacific,2011-08-06,Ariane 5 - VA203
+110.0,E,JCSAT 15, Asia & Pacific,2016-12-21,Ariane 5 - VA234
+110.0,E,BSAT 4A, Asia & Pacific,2017-09-29,Ariane 5 - VA239
+110.0,E,BSAT 3B, Asia & Pacific,2010-10-28,Ariane 5 - V197
+108.2,E,SES 7, Asia & Pacific,2009-05-16,Proton
+108.2,E,SES 9, Asia & Pacific,2016-03-04,Falcon 9
+108.0,E,Telkom 4, Asia & Pacific,2018-08-07,Falcon 9
+105.5,E,AsiaSat 7, Asia & Pacific,2011-11-25,Proton
+103.5,E,ChinaSat 2C, Asia & Pacific,2015-11-03,Long March 3B
+103.0,E,Express AMU3, Asia & Pacific,2021-12-13,Proton
+101.4,E,ChinaSat 9B, Asia & Pacific,2021-09-09,Long March 3B
+100.5,E,AsiaSat 5, Asia & Pacific,2009-08-11,Proton
+98.5,E,ChinaSat 2A, Asia & Pacific,2012-05-26,Long March 3B
+98.0,E,ChinaSat 11, Asia & Pacific,2013-05-01,Long March 3B
+98.0,E,ChinaSat 2E, Asia & Pacific,2021-08-05,Long March 3B
+97.3,E,G-Sat 9, Asia & Pacific,2017-05-05,GSLV
+96.5,E,Express 103, Asia & Pacific,2020-07-30,Proton
+95.0,E,SES 8, Asia & Pacific,2013-12-03,Falcon 9
+95.0,E,SES 12, Asia & Pacific,2018-06-04,Falcon 9
+93.5,E,G-Sat 15, Asia & Pacific,2015-11-10,Ariane 5 - VA227
+93.5,E,G-Sat 17, Asia & Pacific,2017-06-28,Ariane 5 - VA238
+92.2,E,ChinaSat 9, Asia & Pacific,2008-06-09,Long March 3B
+91.5,E,Measat 3b, Asia & Pacific,2014-09-11,Ariane 5 - VA218
+91.5,E,Measat 3d, Asia & Pacific,2022-06-22,Ariane 5 - VA257
+91.4,E,Measat 3a, Asia & Pacific,2009-06-21,Zenit 3
+90.0,E,Yamal 401, Asia & Pacific,2014-12-15,Proton
+88.0,E,ST 2, Asia & Pacific,2011-05-20,Ariane 5 - VA202
+87.5,E,ChinaSat 12, Asia & Pacific,2012-11-27,Long March 3B
+86.5,E,KazSat 2, Asia & Pacific,2011-07-15,Proton
+85.2,E,Intelsat 15, Asia & Pacific,2009-11-30,Zenit 3
+84.5,E,TDRS 7, Asia & Pacific,1995-07-13,Atlantis
+83.0,E,G-Sat 10, Asia & Pacific,2012-09-28,Ariane 5 - VA209
+83.0,E,G-Sat 24, Asia & Pacific,2022-06-22,Ariane 5 - VA257
+83.0,E,G-Sat 30, Asia & Pacific,2020-01-16,Ariane 5 - VA251
+83.0,E,CMS 1, Asia & Pacific,2020-12-17,PSLV
+82.0,E,G-Sat 6, Asia & Pacific,2015-08-27,GSLV
+82.0,E,Insat 3D, Asia & Pacific,2013-07-25,Ariane 5 - VA214
+81.5,E,ChinaSat 1E, Asia & Pacific,2022-09-13,Long March 7A
+80.0,E,Express 80, Asia & Pacific,2020-07-30,Proton
+78.5,E,Thaicom 6, Asia & Pacific,2014-01-06,Falcon 9
+78.5,E,Thaicom 8, Asia & Pacific,2016-05-27,Falcon 9
+76.5,E,Apstar 7, Asia & Pacific,2012-03-31,Long March 3B
+75.0,E,ABS 2, Asia & Pacific,2014-02-06,Ariane 5 - VA217
+75.0,E,ABS 2A, Asia & Pacific,2016-06-15,Falcon 9
+74.0,E,G-Sat 7, Asia & Pacific,2013-08-29,Ariane 5 - VA215
+74.0,E,G-Sat 14, Asia & Pacific,2014-01-05,GSLV
+74.0,E,Insat 3DR, Asia & Pacific,2016-09-08,GSLV
+74.0,E,G-Sat 18, Asia & Pacific,2016-10-05,Ariane 5 - VA231
+74.0,E,G-Sat 11, Asia & Pacific,2018-12-04,Ariane 5 - VA246
+72.1,E,Intelsat 22, Europe & Africa & Middle East,2012-03-25,Proton
+70.5,E,Eutelsat 70B, Europe & Africa & Middle East,2012-12-03,Zenit 3
+68.5,E,Intelsat 20, Europe & Africa & Middle East,2012-08-02,Ariane 5 - VA208
+68.5,E,Intelsat 36, Europe & Africa & Middle East,2016-08-24,Ariane 5 - VA232
+66.0,E,Intelsat 17, Europe & Africa & Middle East,2010-11-26,Ariane 5 - V198
+65.0,E,Amos 4, Europe & Africa & Middle East,2013-08-31,Zenit 3
+64.2,E,Intelsat 906, Europe & Africa & Middle East,2002-09-06,Ariane 4 - V154
+63.0,E,G-Sat 7A, Europe & Africa & Middle East,2018-12-19,GSLV
+62.0,E,Intelsat 39, Europe & Africa & Middle East,2019-08-06,Ariane 5 - VA249
+61.0,E,ABS 4, Europe & Africa & Middle East,2004-03-13,Atlas 3 - AC-202
+60.0,E,Intelsat 33e, Europe & Africa & Middle East,2016-08-24,Ariane 5 - VA232
+58.5,E,KazSat 3, Europe & Africa & Middle East,2014-04-28,Proton
+57.2,E,Astra 2A, Europe & Africa & Middle East,1998-08-30,Proton
+57.0,E,NSS 12, Europe & Africa & Middle East,2009-10-26,Ariane 5 - V192
+56.0,E,Express AT1, Europe & Africa & Middle East,2014-03-15,Proton
+55.0,E,G-Sat 29, Europe & Africa & Middle East,2018-11-14,GSLV
+55.0,E,G-Sat 16, Europe & Africa & Middle East,2014-12-06,Ariane 5 - VA221
+55.0,E,G-Sat 8, Europe & Africa & Middle East,2011-05-20,Ariane 5 - VA202
+54.9,E,Yamal 402, Europe & Africa & Middle East,2012-12-08,Proton
+53.0,E,Express AM6, Europe & Africa & Middle East,2014-10-21,Proton
+52.5,E,Al Yah 1, Europe & Africa & Middle East,2011-04-22,Ariane 5 - VA201
+52.0,E,TurkmenÄlem (MonacoSat), Europe & Africa & Middle East,2015-04-27,Falcon 9
+51.5,E,Belintersat 1, Europe & Africa & Middle East,2016-01-15,Long March 3B
+50.0,E,Türksat 4B, Europe & Africa & Middle East,2015-10-16,Proton
+49.0,E,Yamal 601, Europe & Africa & Middle East,2019-05-30,Proton
+48.0,E,G-Sat 31, Europe & Africa & Middle East,2019-02-05,Ariane 5 - VA247
+48.0,E,G-Sat 19, Europe & Africa & Middle East,2017-06-05,GSLV
+48.0,E,Eutelsat Quantum, Europe & Africa & Middle East,2021-07-30,Ariane 5 - VA254
+47.5,E,Al Yah 2, Europe & Africa & Middle East,2012-04-23,Ariane 5 - VA206
+46.0,E,Azerspace 1, Europe & Africa & Middle East,2013-02-07,Ariane 5 - VA212
+45.1,E,Azerspace 2 (Intelsat 38), Europe & Africa & Middle East,2018-09-25,Ariane 5 - VA243
+45.0,E,Cosmos 2520, Europe & Africa & Middle East,2017-08-16,Proton
+42.5,E,NigComSat 1R, Europe & Africa & Middle East,2011-12-19,Long March 3B
+42.0,E,Türksat 3A, Europe & Africa & Middle East,2008-06-12,Ariane 5
+42.0,E,Türksat 4A, Europe & Africa & Middle East,2014-02-14,Proton
+42.0,E,Türksat 5B, Europe & Africa & Middle East,2021-12-19,Falcon 9
+40.0,E,Express AM7, Europe & Africa & Middle East,2015-03-18,Proton
+39.0,E,Hellas Sat 3, Europe & Africa & Middle East,2017-06-28,Ariane 5 - VA238
+39.0,E,Hellas Sat 4, Europe & Africa & Middle East,2019-02-05,Ariane 5 - VA247
+38.0,E,Paksat 1R, Europe & Africa & Middle East,2011-08-11,Long March 3B
+36.1,E,Express AMU1, Europe & Africa & Middle East,2015-12-24,Proton
+35.9,E,Eutelsat 36B, Europe & Africa & Middle East,2009-11-24,Proton
+33.0,E,Eutelsat 33F, Europe & Africa & Middle East,2006-08-04,Proton
+32.9,E,Intelsat 28, Europe & Africa & Middle East,2011-04-22,Ariane 5 - VA201
+32.9,E,Galaxy 14, Europe & Africa & Middle East,2005-08-13,Soyuz
+31.0,E,Hylas 2, Europe & Africa & Middle East,2012-08-02,Ariane 5 - VA208
+31.0,E,Türksat 5A, Europe & Africa & Middle East,2021-01-08,Falcon 9
+30.5,E,Arabsat 5A, Europe & Africa & Middle East,2010-06-26,Ariane 5 - V195
+30.5,E,Arabsat 6A, Europe & Africa & Middle East,2019-04-11,Falcon 9
+28.5,E,Astra 2E, Europe & Africa & Middle East,2013-09-29,Proton
+28.2,E,Astra 2F, Europe & Africa & Middle East,2012-09-28,Ariane 5 - VA209
+28.2,E,Astra 2G, Europe & Africa & Middle East,2014-12-27,Proton
+26.0,E,Badr 6, Europe & Africa & Middle East,2008-07-07,Araine 5
+26.0,E,Badr 4, Europe & Africa & Middle East,2006-11-08,Proton
+26.0,E,Badr 5, Europe & Africa & Middle East,2010-06-03,Proton
+26.0,E,Badr 7, Europe & Africa & Middle East,2015-11-10,Ariane 5 - VA227
+26.0,E,Badr 8, Europe & Africa & Middle East,2023-05-27,Falcon 9
+25.8,E,Es'hail 2, Europe & Africa & Middle East,2018-11-15,Falcon 9
+25.5,E,Es'hail 1, Europe & Africa & Middle East,2013-08-29,Ariane 5 - VA215
+23.5,E,Astra 3B, Europe & Africa & Middle East,2010-05-21,Ariane 5 - V194
+23.5,E,Astra 3C, Europe & Africa & Middle East,2014-03-22,Ariane 5 - VA216
+23.0,E,Angosat 2, Europe & Africa & Middle East,2022-10-12,Proton
+21.5,E,SES 16 (GovSat 1), Europe & Africa & Middle East,2018-01-31,Falcon 9
+21.5,E,Eutelsat 21B, Europe & Africa & Middle East,2012-11-10,Ariane 5 - VA210
+21.5,E,EDRS C, Europe & Africa & Middle East,2019-08-06,Ariane 5 - VA249
+20.0,E,Arabsat 5C, Europe & Africa & Middle East,2011-09-21,Ariane 5 - VA204
+19.2,E,Astra 1KR, Europe & Africa & Middle East,2006-04-20,Atlas 5
+19.2,E,Astra 1L, Europe & Africa & Middle East,2007-05-04,Ariane 5 - V176
+19.2,E,Astra 1M, Europe & Africa & Middle East,2008-11-05,Proton
+19.2,E,Astra 1N, Europe & Africa & Middle East,2011-08-06,Ariane 5 - VA203
+19.0,E,AMC 14, Europe & Africa & Middle East,2008-03-14,Proton
+17.0,E,Amos 17, Europe & Africa & Middle East,2019-08-06,Falcon 9
+16.0,E,Eutelsat 16A, Europe & Africa & Middle East,2011-10-07,Long March 3B
+13.0,E,Hotbird 13F, Europe & Africa & Middle East,2022-10-15,Falcon 9
+13.0,E,Hotbird 13G, Europe & Africa & Middle East,2022-11-03,Falcon 9
+12.8,E,Hotbird 13E, Europe & Africa & Middle East,2006-03-11,Ariane 5
+10.2,E,EchoStar 21, Europe & Africa & Middle East,2017-06-08,Proton
+10.0,E,Eutelsat 10B, Europe & Africa & Middle East,2022-11-23,Falcon 9
+9.0,E,Eutelsat Ka-Sat 9A, Europe & Africa & Middle East,2010-12-26,Proton
+9.0,E,Eutelsat 9B, Europe & Africa & Middle East,2016-01-29,Proton
+7.2,E,Eutelsat Konnect, Europe & Africa & Middle East,2020-01-16,Ariane 5 - VA251
+7.0,E,Eutelsat 7B, Europe & Africa & Middle East,2013-05-14,Proton
+7.0,E,Eutelsat 7C, Europe & Africa & Middle East,2019-06-20,Ariane 5 - VA248
+5.0,E,SES 5, Europe & Africa & Middle East,2012-07-09,Proton
+4.8,E,Astra 4A, Europe & Africa & Middle East,2007-11-17,Proton
+3.1,E,Eutelsat 3B, Europe & Africa & Middle East,2014-05-26,Zenit
+2.8,E,Rascom QAF 1R, Europe & Africa & Middle East,2010-08-04,Ariane 5 - V196
+2.7,E,Eutelsat Konnect VHTS, Europe & Africa & Middle East,2022-09-07,Ariane 5 - VA258
+1.9,E,BulgariaSat 1, Europe & Africa & Middle East,2017-06-23,Falcon 9
+0.6,W,Thor 7, Atlantic,2015-04-26,Ariane 5 - VA222
+0.8,W,Thor 5, Atlantic,2008-02-11,Proton
+0.8,W,Thor 6, Atlantic,2009-10-26,Ariane 5 - V192
+1.0,W,Intelsat 10-02, Atlantic,2004-06-16,Proton
+3.0,W,ABS 3A, Atlantic,2015-03-02,Falcon 9
+3.9,W,Amos 7, Atlantic,2014-08-05,Falcon 9
+4.0,W,Amos 3, Atlantic,2008-04-28,Zenit 3
+5.0,W,Eutelsat 5 West B, Atlantic,2019-10-09,Proton
+7.0,W,Nilesat 201, Atlantic,2010-08-04,Ariane 5 - V196
+7.0,W,Nilesat 301, Atlantic,2022-06-08,Falcon 9
+7.3,W,Eutelsat 7 West A, Atlantic,2011-09-24,Zenit 3
+8.0,W,Eutelsat 8 West B, Atlantic,2015-08-20,Ariane 5 - VA225
+10.0,W,Hellas Sat 2, Atlantic,2003-05-13,Atlas 5 - AV-002
+11.0,W,Express AM44, Atlantic,2009-02-11,Proton
+12.0,W,TDRS 13, Atlantic,2017-08-18,Atlas
+12.5,W,Eutelsat 12 West G, Atlantic,2008-12-20,Ariane 5 - V186
+14.0,W,Express AM8, Atlantic,2015-09-14,Proton
+15.0,W,Telstar 12 Vantage, Atlantic,2015-11-24,H2A
+16.0,W,Luch 5B, Atlantic,2012-11-02,Proton
+18.0,W,Intelsat 37e, Atlantic,2017-09-29,Ariane 5 - VA239
+20.0,W,Al Yah 3, Atlantic,2018-01-25,Ariane 5 - VA241
+22.0,W,SES 4, Atlantic,2012-02-14,Proton
+24.5,W,Intelsat 905, Atlantic,2002-06-05,Ariane 4 - V152
+24.8,W,Alcomsat 1, Atlantic,2017-12-10,Long March 3B
+27.5,W,Intelsat 9 (drifting east), Atlantic,2000-07-28,Zenit
+27.5,W,Intelsat 901, Atlantic,2001-06-09,Ariane 4 - V141
+29.5,W,Intelsat 904, Atlantic,2002-02-23,Ariane 4 - V148
+30.0,W,Hispasat 30W-5, Atlantic,2010-12-29,Ariane 5 - V199
+30.0,W,Hispasat 30W-6, Atlantic,2018-03-06,Falcon 9
+30.0,W,SpainSat, Atlantic,2006-03-11,Ariane 5
+31.5,W,Intelsat 25, Atlantic,2008-07-07,Ariane 5
+33.5,W,Hylas 4, Atlantic,2018-04-05,Ariane 5 - VA242
+34.5,W,Intelsat 35e, Atlantic,2017-07-05,Falcon 9
+36.0,W,Hispasat 36W-1, Atlantic,2017-01-28,Soyuz - VS16
+37.4,W,NSS 10, Atlantic,2005-02-03,Proton
+37.6,W,Telstar 11N, Atlantic,2009-02-26,Zenit 3
+40.5,W,SES 6, Atlantic,2013-06-03,Proton
+41.0,W,TDRS 12, Atlantic,2014-01-24,Atlas 5 - V401
+42.8,W,WGS 3, Atlantic,2009-12-06,Delta
+43.1,W,Intelsat 11, Atlantic,2007-10-05,Ariane 5
+43.1,W,Sky Brasil 1, Atlantic,2017-02-14,Ariane 5 - VA235
+45.0,W,Intelsat 14, Atlantic,2009-11-23,Atlas 5
+46.0,W,TDRS 6, Atlantic,1993-01-13,Endeavour
+47.5,W,SES 14, Atlantic,2018-01-25,Ariane 5 - VA241
+50.0,W,TDRS 3, Atlantic,1988-09-29,Discovery
+50.1,W,Intelsat 902, Atlantic,2001-08-30,Ariane 4 - V143
+53.0,W,Intelsat 23, Atlantic,2012-10-14,Proton
+55.5,W,Intelsat 34, Atlantic,2015-08-20,Ariane 5 - VA225
+58.0,W,Intelsat 21, Atlantic,2012-08-19,Zenit 3
+61.0,W,Amazonas 2, Atlantic,2009-10-01,Ariane 5 - V191
+61.0,W,Amazonas 3, Atlantic,2013-02-07,Ariane 5 - VA212
+61.0,W,Amazonas 5, Atlantic,2017-09-11,Proton
+61.0,W,Amazonas Nexus, Atlantic,2023-02-07,Falcon 9
+61.4,W,EchoStar 18, North & South America,2016-06-18,Ariane 5 - VA230
+61.5,W,EchoStar 15, North & South America,2010-07-10,Proton
+61.5,W,EchoStar 16, North & South America,2012-11-20,Proton
+63.0,W,Telstar 14R, North & South America,2011-05-20,Proton
+63.0,W,Telstar 19 Vantage, North & South America,2018-07-22,Falcon 9
+65.0,W,Star One C2, North & South America,2008-04-18,Ariane 5
+65.2,W,Eutelsat 65 West A, North & South America,2016-03-09,Ariane 5 - VA229
+67.0,W,SES 10, North & South America,2017-03-30,Falcon 9
+67.1,W,SES 17, North & South America,2021-10-24,Ariane 5 - VA255
+69.9,W,ViaSat 2, North & South America,2015-07-15,Ariane 5 - VA224
+70.0,W,Star One C4, North & South America,2021-07-30,Ariane 5 - VA254
+70.0,W,Star One D2, North & South America,2014-10-16,Ariane 5 - VA220
+71.8,W,Arsat 1, North & South America,1997-09-04,Atlas
+72.0,W,AMC 3, North & South America,2001-06-16,Proton
+72.5,W,Astra 2C, North & South America,2009-09-17,Proton
+72.7,W,Nimiq 5, North & South America,2017-06-18,Long March 3B
+73.0,W,ChinaSat 9A (drifting west), North & South America,2007-12-21,Ariane 5
+73.8,W,Horizons 2, North & South America,2014-03-22,Ariane 5 - VA216
+73.9,W,Hispasat 74W-1, North & South America,2017-05-04,Ariane 5 - VA236
+75.0,W,SGDC, North & South America,2012-11-10,Ariane 5 - VA210
+75.0,W,Star One C3, North & South America,2010-02-12,Proton
+76.2,W,Intelsat 16, North & South America,2011-09-29,Proton
+77.0,W,QuetzSat 1, North & South America,2015-05-27,Ariane 5 - VA223
+78.8,W,Sky Mexico 1, North & South America,2015-09-30,Ariane 5 - VA226
+81.0,W,Arsat 2, North & South America,2008-09-19,Proton
+82.0,W,Nimiq 4, North & South America,2016-12-21,Ariane 5 - VA234
+84.0,W,Star One D1, North & South America,2021-06-06,Falcon 9
+84.0,W,Sirius XM 8, North & South America,2007-05-04,Ariane 5 - V176
+85.0,W,Galaxy 17, North & South America,2005-03-01,Zenit
+85.1,W,XM 3, North & South America,2020-12-13,Falcon 9
+85.2,W,Sirius XM 7, North & South America,2009-06-30,Proton
+86.2,W,Sirius FM 5, North & South America,2011-09-21,Ariane 5 - VA204
+87.0,W,SES 2, North & South America,2013-12-20,Long March 3B
+87.2,W,TKSat 1, North & South America,1999-09-04,Ariane V120
+88.5,W,ABS 7 (drifting west), North & South America,2023-05-01,Falcon Heavy
+88.9,W,ViaSat 3 Americas, North & South America,2005-06-23,Zenit
+89.0,W,Galaxy 28, North & South America,2022-12-13,Ariane 5 - VA259
+89.0,W,Galaxy 36, North & South America,2023-04-07,Falcon 9
+91.0,W,Intelsat 40e, North & South America,2022-11-12,Falcon 9
+91.0,W,Galaxy 32, North & South America,2012-05-17,Proton
+91.1,W,Nimiq 6, North & South America,2022-12-13,Ariane 5 - VA259
+93.1,W,Galaxy 35, North & South America,2002-06-15,Zenit
+94.9,W,Galaxy 3C, North & South America,2016-06-09,Proton
+95.0,W,Intelsat 31, North & South America,2014-10-16,Ariane 5 - VA220
+95.1,W,Intelsat 30, North & South America,2023-07-29,Falcon Heavy
+95.2,W,Jupiter 3 (EchoStar 24), North & South America,2009-02-12,Ariane 5 - V187
+95.4,W,Eutelsat 33E, North & South America,2008-09-24,Zenit 3
+97.0,W,Galaxy 19, North & South America,2016-12-18,Atlas 5
+97.1,W,EchoStar 19, North & South America,2006-06-18,Zenit 3
+99.0,W,Galaxy 16, North & South America,2008-03-19,Zenit 3
+99.2,W,T11, North & South America,2014-12-06,Ariane 5 - VA221
+99.2,W,T14, North & South America,1991-08-02,Atlantis
+100.5,W,TDRS 5 (drifting 1.4E (day)), North & South America,2019-06-20,Ariane 5 - VA248
+100.8,W,T16, North & South America,2010-04-24,Proton
+101.0,W,SES 1, North & South America,2006-10-13,Ariane 5
+101.1,W,T9S, North & South America,2007-07-07,Proton
+102.6,W,T10, North & South America,2009-12-29,Proton
+102.8,W,T12, North & South America,2015-05-27,Ariane 5 - VA223
+103.0,W,T15, North & South America,2011-07-15,Proton
+103.0,W,SES 3, North & South America,2023-03-17,Falcon 9
+103.0,W,SES 18, North & South America,2022-10-04,Atlas
+103.5,W,SES 20, North & South America,2004-10-14,Proton
+105.0,W,AMC 15, North & South America,2017-10-11,Falcon 9
+105.0,W,EchoStar 105 (SES 11), North & South America,2012-07-05,Ariane 5 - VA207
+107.1,W,EchoStar 17, North & South America,2005-09-08,Proton
+107.3,W,Anik F1R, North & South America,2013-04-15,Proton
+107.3,W,Anik G1, North & South America,2002-12-29,Proton
+109.2,W,Nimiq 2, North & South America,2000-11-21,Ariane 4 - V136
+109.3,W,Anik F1, North & South America,2017-03-16,Falcon 9
+109.9,W,EchoStar 23, North & South America,2002-05-07,Proton
+109.8,W,T5, North & South America,2006-02-15,Zenit
+110.0,W,EchoStar 10, North & South America,2008-07-16,Zenit 3
+110.0,W,EchoStar 11, North & South America,2006-12-08,Ariane 5 - V174
+111.0,W,WildBlue 1, North & South America,2004-07-18,Ariane 5 - V163
+111.1,W,Anik F2, North & South America,2009-07-01,Ariane 5 - V189
+111.1,W,TerreStar 1, North & South America,2004-05-19,Atlas 2AS
+111.1,W,Anik F4, North & South America,2015-10-02,Atlas 5
+113.0,W,Morelos 3, North & South America,2012-12-19,Ariane 5 - VA211
+114.8,W,Mexsat Bicentenario, North & South America,2015-03-02,Falcon 9
+114.9,W,Eutelsat 115 West B, North & South America,2011-10-19,Proton
+115.1,W,ViaSat 1, North & South America,2010-10-14,Proton
+115.2,W,Sirius XM 5, North & South America,2013-10-25,Proton
+116.0,W,Sirius FM 6, North & South America,2013-03-26,Proton
+116.8,W,Eutelsat 117 West A, North & South America,2016-06-15,Falcon 9
+117.0,W,Eutelsat 117 West B, North & South America,2007-04-09,Proton
+118.8,W,Anik F3, North & South America,2005-05-22,Proton
+119.0,W,T8, North & South America,2010-03-20,Proton
+119.0,W,EchoStar 14, North & South America,2006-05-27,Ariane 5
+119.5,W,Eutelsat 113 West A (drifting west), North & South America,2003-08-08,Zenit 3
+121.0,W,EchoStar 9 (Galaxy 23), North & South America,2022-11-12,Falcon 9
+121.0,W,Galaxy 31, North & South America,2008-05-21,Zenit 3
+123.0,W,Galaxy 18, North & South America,2008-08-14,Ariane 5 - V185
+124.9,W,AMC 21, North & South America,2020-08-15,Ariane 5 - VA253
+125.0,W,Galaxy 30, North & South America,2023-08-03,Falcon 9
+127.0,W,Galaxy 37 (Horizons 4), North & South America,2017-05-18,Soyuz - VS17
+129.0,W,SES 15, North & South America,2022-10-08,Falcon 9
+129.0,W,Galaxy 34, North & South America,2022-10-04,Atlas
+131.0,W,SES 21, North & South America,2022-10-08,Falcon 9
+133.0,W,Galaxy 33, North & South America,2022-06-29,Falcon 9
+135.0,W,SES 22, North & South America,2023-03-17,Falcon 9
+135.0,W,SES 19, North & South America,2005-11-16,Ariane 5 - V167
+138.9,W,Spaceway 2, North & South America,2000-10-21,Proton
+139.0,W,AMC 6, North & South America,2004-03-15,Proton
+139.2,W,Eutelsat 139 West A, North & South America,2003-10-01,Zenit 3
