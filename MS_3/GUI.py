@@ -95,11 +95,11 @@ def show_favorite_list_coverage_view():
     fav_frame.grid(row=0, column=0, padx=10, pady=10, sticky="nsew")  # Show the registration view
     try:
         mydb = mysql.connector.connect(
-            host="fbey-lyngsat-satellite-db.b.aivencloud.com",
-            user="avnadmin",
-            password="AVNS_yM_33_f65l9CM_hucFR",
-            database="project_satellite_db",
-            port=26060
+            host="******",
+            user="*******",
+            password="******",
+            database="******",
+            port=*****
         )
         email = entry_Email.get()
 
@@ -166,11 +166,11 @@ def show_top_networks_view():
     network_frame.grid(row=0, column=0, padx=10, pady=10, sticky="nsew")  # Show the registration view
     try:
         mydb = mysql.connector.connect(
-            host="fbey-lyngsat-satellite-db.b.aivencloud.com",
-            user="avnadmin",
-            password="AVNS_yM_33_f65l9CM_hucFR",
-            database="project_satellite_db",
-            port=26060
+            host="******",
+            user="*******",
+            password="*******",
+            database="*******",
+            port=*****
         )
 
         # Create a cursor object
@@ -229,11 +229,11 @@ def show_top_rockets_view():
     rocket_frame.grid(row=0, column=0, padx=10, pady=10, sticky="nsew")  # Show the registration view
     try:
         mydb = mysql.connector.connect(
-            host="fbey-lyngsat-satellite-db.b.aivencloud.com",
-            user="avnadmin",
-            password="AVNS_yM_33_f65l9CM_hucFR",
-            database="project_satellite_db",
-            port=26060
+            host="******",
+            user="*******",
+            password="*******",
+            database="*******",
+            port=*****
         )
         # Create a cursor object
         cursor = mydb.cursor()
@@ -287,11 +287,11 @@ def show_top_growing_satellites_view():
     growing_sat_frame.grid(row=0, column=0, padx=10, pady=10, sticky="nsew")  # Show the registration view
     try:
         mydb = mysql.connector.connect(
-            host="fbey-lyngsat-satellite-db.b.aivencloud.com",
-            user="avnadmin",
-            password="AVNS_yM_33_f65l9CM_hucFR",
-            database="project_satellite_db",
-            port=26060
+            host="******",
+            user="*******",
+            password="*******",
+            database="*******",
+            port=*****
         )
 
         selected_language = selected_language_var.get()
@@ -351,11 +351,11 @@ def show_top_channels_by_language_view():
 def get_channels_by_lang():
     try:
         mydb = mysql.connector.connect(
-            host="fbey-lyngsat-satellite-db.b.aivencloud.com",
-            user="avnadmin",
-            password="AVNS_yM_33_f65l9CM_hucFR",
-            database="project_satellite_db",
-            port=26060
+            host="******",
+            user="*******",
+            password="*******",
+            database="*******",
+            port=*****
         )
 
         selected_language = selected_language_var.get()
@@ -418,11 +418,11 @@ def show_filtered_channel_list_view():
 def get_filtered_list():
     try:
         mydb = mysql.connector.connect(
-            host="fbey-lyngsat-satellite-db.b.aivencloud.com",
-            user="avnadmin",
-            password="AVNS_yM_33_f65l9CM_hucFR",
-            database="project_satellite_db",
-            port=26060
+            host="******",
+            user="*******",
+            password="*******",
+            database="*******",
+            port=*****
         )
 
         region = region_var.get()
@@ -511,11 +511,11 @@ def get_filtered_list():
 
 def validate_user():
     mydb = mysql.connector.connect(
-        host="fbey-lyngsat-satellite-db.b.aivencloud.com",
-        user="avnadmin",
-        password="AVNS_yM_33_f65l9CM_hucFR",
-        database="project_satellite_db",
-        port=26060
+            host="******",
+            user="*******",
+            password="*******",
+            database="*******",
+            port=*****
     )
 
     username = entry_username.get()  # Get the username from the entry field
@@ -539,11 +539,11 @@ def validate_user():
 def confirm_reg(confirmation_label=None):
     try:
         mydb = mysql.connector.connect(
-            host="fbey-lyngsat-satellite-db.b.aivencloud.com",
-            user="avnadmin",
-            password="AVNS_yM_33_f65l9CM_hucFR",
-            database="project_satellite_db",
-            port=26060
+            host="******",
+            user="*******",
+            password="*******",
+            database="*******",
+            port=*****
         )
 
         email = entry_email.get()
@@ -592,11 +592,11 @@ def confirm_reg(confirmation_label=None):
 def create_favorite_list():
     try:
         mydb = mysql.connector.connect(
-            host="fbey-lyngsat-satellite-db.b.aivencloud.com",
-            user="avnadmin",
-            password="AVNS_yM_33_f65l9CM_hucFR",
-            database="project_satellite_db",
-            port=26060
+            host="******",
+            user="*******",
+            password="*******",
+            database="*******",
+            port=*****
         )
 
         cursor = mydb.cursor()
@@ -638,11 +638,11 @@ def create_favorite_list():
 def get_channels_by_location():
     try:
         mydb = mysql.connector.connect(
-            host="fbey-lyngsat-satellite-db.b.aivencloud.com",
-            user="avnadmin",
-            password="AVNS_yM_33_f65l9CM_hucFR",
-            database="project_satellite_db",
-            port=26060
+            host="******",
+            user="*******",
+            password="*******",
+            database="*******",
+            port=*****
         )
 
         longitude = entry_long.get()

@@ -3,11 +3,11 @@ import pandas as pd
 import numpy as np
 
 cnx = mysql.connector.connect(
-    host="localhost",
-    user="root",
-    password="farida2004",
-    database="project_satellite_db",
-    port=3306
+    host="******",
+    user="******",
+    password="******",
+    database="******",
+    port=****
 )
 
 df = pd.read_csv('/Networks.csv')
