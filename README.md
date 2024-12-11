@@ -76,7 +76,7 @@ The main features include:
 ### Setup
 1. Clone the repository.
    ```bash
-   git clone https://github.com/your-repo-url.git
+   git clone https://github.com/FaridaBey/DB_Proj01.git
    cd your-repo-folder
    ```
 2. Install required Python libraries.
